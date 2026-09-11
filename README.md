@@ -56,14 +56,9 @@ James Cameron was identified as the most bankable director based on total movie 
 Brenda Chapman exists in the directors table, but her director ID (`4801`) is not referenced in the movies table. Therefore, the query for movies directed by Brenda Chapman returns zero rows.
 
 ## 📁 Project Files
-
-├── README.md
-|
-├── IMDB Movies SQL Project.sql
-|
-├── IMDB Movies Document.docx
-|
-│── IMDB Movies Presentation.pptx
+- `IMDB Movies SQL Project.sql` — SQL queries
+- `IMDB Movies Document.docx` — Detailed project documentation
+- `IMDB Movies Presentation.pptx` — Professional project presentation
 
 ## 👩‍💻 Author
 
