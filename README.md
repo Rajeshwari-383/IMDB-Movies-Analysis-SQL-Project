@@ -58,8 +58,11 @@ Brenda Chapman exists in the directors table, but her director ID (`4801`) is no
 ## 📁 Project Files
 
 ├── README.md
+|
 ├── IMDB Movies SQL Project.sql
+|
 ├── IMDB Movies Document.docx
+|
 │── IMDB Movies Presentation.pptx
 
 ## 👩‍💻 Author
